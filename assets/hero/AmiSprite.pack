@@ -1,0 +1,1675 @@
+
+AmiSprite.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dead (1)
+  rotate: false
+  xy: 1, 1
+  size: 722, 667
+  orig: 722, 667
+  offset: 0, 0
+  index: -1
+
+AmiSprite2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dead (10)
+  rotate: false
+  xy: 1, 1
+  size: 722, 667
+  orig: 722, 667
+  offset: 0, 0
+  index: -1
+Dead (9)
+  rotate: false
+  xy: 1, 1
+  size: 722, 667
+  orig: 722, 667
+  offset: 0, 0
+  index: -1
+
+AmiSprite3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dead (2)
+  rotate: false
+  xy: 1, 1
+  size: 722, 667
+  orig: 722, 667
+  offset: 0, 0
+  index: -1
+
+AmiSprite4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dead (3)
+  rotate: false
+  xy: 1, 1
+  size: 722, 667
+  orig: 722, 667
+  offset: 0, 0
+  index: -1
+
+AmiSprite5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dead (4)
+  rotate: false
+  xy: 1, 1
+  size: 722, 667
+  orig: 722, 667
+  offset: 0, 0
+  index: -1
+
+AmiSprite6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dead (5)
+  rotate: false
+  xy: 1, 1
+  size: 722, 667
+  orig: 722, 667
+  offset: 0, 0
+  index: -1
+
+AmiSprite7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dead (6)
+  rotate: false
+  xy: 1, 1
+  size: 722, 667
+  orig: 722, 667
+  offset: 0, 0
+  index: -1
+
+AmiSprite8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dead (7)
+  rotate: false
+  xy: 1, 1
+  size: 722, 667
+  orig: 722, 667
+  offset: 0, 0
+  index: -1
+
+AmiSprite9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dead (8)
+  rotate: false
+  xy: 1, 1
+  size: 722, 667
+  orig: 722, 667
+  offset: 0, 0
+  index: -1
+
+AmiSprite10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Aim (1)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Aim (10)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Aim (2)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite13.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Aim (3)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite14.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Aim (4)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite15.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Aim (5)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite16.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Aim (6)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite17.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Aim (7)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite18.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Aim (8)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite19.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Aim (9)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite20.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Crouch (1)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite21.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Crouch (10)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite22.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Crouch (2)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite23.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Crouch (3)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite24.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Crouch (4)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite25.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Crouch (5)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite26.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Crouch (6)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite27.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Crouch (7)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite28.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Crouch (8)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite29.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Crouch (9)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite30.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchAim (1)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite31.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchAim (10)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite32.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchAim (2)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite33.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchAim (3)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite34.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchAim (4)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite35.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchAim (5)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite36.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchAim (6)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite37.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchAim (7)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite38.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchAim (8)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite39.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchAim (9)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite40.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchShoot (1)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite41.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchShoot (2)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite42.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchShoot (3)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite43.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchShoot (4)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite44.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchShoot (5)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite45.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchThrow (1)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite46.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchThrow (10)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite47.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchThrow (2)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite48.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchThrow (3)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite49.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchThrow (4)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite50.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchThrow (5)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite51.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchThrow (6)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite52.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchThrow (7)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite53.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchThrow (8)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite54.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrouchThrow (9)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite55.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle (1)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite56.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle (10)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite57.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle (2)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite58.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle (3)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite59.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle (4)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite60.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle (5)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite61.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle (6)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite62.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle (7)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite63.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle (8)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite64.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle (9)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite65.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump (1)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite66.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump (10)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite67.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump (2)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite68.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump (3)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite69.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump (4)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite70.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump (5)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite71.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump (6)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite72.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump (7)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite73.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump (8)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite74.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump (9)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite75.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+JumpShoot (1)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite76.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+JumpShoot (10)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite77.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+JumpShoot (2)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite78.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+JumpShoot (3)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite79.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+JumpShoot (4)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite80.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+JumpShoot (5)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite81.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+JumpShoot (6)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite82.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+JumpShoot (7)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite83.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+JumpShoot (8)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite84.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+JumpShoot (9)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite85.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run (1)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite86.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run (10)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite87.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run (2)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite88.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run (3)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite89.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run (4)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite90.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run (5)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite91.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run (6)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite92.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run (7)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite93.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run (8)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite94.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run (9)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite95.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+RunShoot (1)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite96.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+RunShoot (10)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite97.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+RunShoot (2)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite98.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+RunShoot (3)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite99.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+RunShoot (4)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite100.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+RunShoot (5)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite101.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+RunShoot (6)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite102.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+RunShoot (7)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite103.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+RunShoot (8)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite104.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+RunShoot (9)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite105.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Shoot (1)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite106.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Shoot (2)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite107.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Shoot (3)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite108.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Shoot (4)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite109.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Shoot (5)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite110.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Throw (1)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite111.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Throw (10)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite112.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Throw (2)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite113.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Throw (3)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite114.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Throw (4)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite115.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Throw (5)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite116.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Throw (6)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite117.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Throw (7)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite118.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Throw (8)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite119.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Throw (9)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite120.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Walk (1)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite121.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Walk (10)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite122.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Walk (2)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite123.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Walk (3)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite124.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Walk (4)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite125.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Walk (5)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite126.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Walk (6)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite127.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Walk (7)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite128.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Walk (8)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite129.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Walk (9)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite130.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+WalkShoot (1)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite131.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+WalkShoot (10)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite132.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+WalkShoot (2)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite133.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+WalkShoot (3)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite134.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+WalkShoot (4)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite135.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+WalkShoot (5)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite136.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+WalkShoot (6)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite137.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+WalkShoot (7)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite138.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+WalkShoot (8)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
+
+AmiSprite139.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+WalkShoot (9)
+  rotate: false
+  xy: 1, 1
+  size: 570, 651
+  orig: 570, 651
+  offset: 0, 0
+  index: -1
